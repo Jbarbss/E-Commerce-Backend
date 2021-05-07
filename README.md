@@ -88,7 +88,7 @@ You can then use Insomnia to run all tests
 
 [Deployed Github Repo] https://github.com/Jbarbss/E-Commerce-Backend
 
-[Walk through Video] 
+[Demo Video] https://drive.google.com/file/d/1m1t_6v655Gxp9eq6fGAZW-IIBJCnBqD2/view
 
 
  
