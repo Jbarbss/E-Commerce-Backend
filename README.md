@@ -94,20 +94,24 @@ You can then use Insomnia to run all tests
  
 ## Contributions
 ---
+[![GitHub](https://img.shields.io/badge/Ben%20Durham-Click%20Me!-blueviolet?style=plastic&logo=GitHub)](https://github.com/bdurham227)
 
-Ben Durham (https://github.com/bdurham227)
-<br>
-Patrick Walker (https://github.com/pat31477)
-<br>
+[![GitHub](https://img.shields.io/badge/Gabe%20Thomas-Click%20Me!-blueviolet?style=plastic&logo=GitHub)](https://github.com/samohtebag)
+
+[![GitHub](https://img.shields.io/badge/Patrick%20Walker-Click%20Me!-blueviolet?style=plastic&logo=GitHub)](https://github.com/pat31477)
+
 
 ## Questions
  ---
- If you have any questions about this application please reach out 
- using the contact information below:
+  Please email me with any question regarding this project @ JBarbanel@gmail.com and connect with me on Github and LinkedIn.
+ 
 
-Github: https://github.com/jbarbss
+  [![GitHub](https://img.shields.io/badge/Jason%20Barbanel-Click%20Me!-blueviolet?style=plastic&logo=GitHub)](https://github.com/jbarbss) 
 
-Email: Jbarbanel@gmail.com
+
+  [![LinkedIn](https://img.shields.io/badge/Jason%20Barbanel%20LinkedIn-Click%20Me!-grey?style=plastic&logo=LinkedIn&labelColor=blue)](https://www.linkedin.com/in/jason-barbanel/)
+
+Copyright (c) 2021 Jason Barbanel
 
 
 ## License
